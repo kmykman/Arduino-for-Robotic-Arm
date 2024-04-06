@@ -12,3 +12,6 @@ Man Yuet Ki Kimmy
 2. Run the code on an Android phone following this [tutorial](https://developer.android.com/codelabs/basic-android-kotlin-compose-connect-device#0)
 3. Download this Arduino board code
 4. Upload the Arduino board code to the robotic arm
+
+## Demonstration
+[![Watch the video](https://github.com/kmykman/Android-App-for-playing-Rummikub/assets/78306170/c48b4e9c-df4b-4cee-9287-3b73e92023fb)](https://www.youtube.com/watch?v=lNphdhnKkhw)
